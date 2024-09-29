@@ -1,30 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\",
+  "WorkspaceRootPath": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|c:\\users\\dell 5400\\desktop\\ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\kiemtralichbaove\\sendemailvbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\sendemailvbc\\clsemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|solutionrelative:sendemailvbc\\clsemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|c:\\users\\dell 5400\\desktop\\ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\kiemtralichbaove\\kiemtratrunglich\\sendemailvbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|solutionrelative:sendemailvbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\sendemailvbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\sendemailvbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|solutionrelative:sendemailvbc\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\sendemailvbc\\clspublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\sendemailvbc\\clspublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|solutionrelative:sendemailvbc\\clspublic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\sendemailvbc\\clsinfoteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\sendemailvbc\\clsinfoteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|solutionrelative:sendemailvbc\\clsinfoteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\sendemailvbc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\sendemailvbc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|solutionrelative:sendemailvbc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\sendemailvbc\\clsemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5AB57DDA-64E8-46C5-A039-ACD27EABF97F}|SendEmailVBC\\sendEmail.csproj|solutionrelative:sendemailvbc\\clsemail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,15 +34,15 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\Program.cs",
               "RelativeDocumentMoniker": "SendEmailVBC\\Program.cs",
-              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\Program.cs",
               "RelativeToolTip": "SendEmailVBC\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -50,23 +50,24 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "clsEmail.cs",
-              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\clsEmail.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\clsEmail.cs",
               "RelativeDocumentMoniker": "SendEmailVBC\\clsEmail.cs",
-              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\clsEmail.cs",
+              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\clsEmail.cs",
               "RelativeToolTip": "SendEmailVBC\\clsEmail.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwBQAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T13:29:22.759Z"
+              "WhenOpened": "2024-09-29T13:29:22.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "clsInfoTeacher.cs",
-              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\clsInfoTeacher.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\clsInfoTeacher.cs",
               "RelativeDocumentMoniker": "SendEmailVBC\\clsInfoTeacher.cs",
-              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\clsInfoTeacher.cs",
+              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\clsInfoTeacher.cs",
               "RelativeToolTip": "SendEmailVBC\\clsInfoTeacher.cs",
               "ViewState": "AQIAABIAAAAAAAAAAAAywAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -74,11 +75,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "clsPublic.cs",
-              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\clsPublic.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\clsPublic.cs",
               "RelativeDocumentMoniker": "SendEmailVBC\\clsPublic.cs",
-              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\clsPublic.cs",
+              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\clsPublic.cs",
               "RelativeToolTip": "SendEmailVBC\\clsPublic.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -86,25 +87,25 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\Form1.cs",
               "RelativeDocumentMoniker": "SendEmailVBC\\Form1.cs",
-              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\Form1.cs",
+              "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\Form1.cs",
               "RelativeToolTip": "SendEmailVBC\\Form1.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAuwAwAAAAAAAAA",
+              "ViewState": "AQIAALUAAAAAAAAAAADwv44AAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T04:40:11.108Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Form1.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\Form1.cs",
+              "DocumentMoniker": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\KiemTraTrungLich\\SendEmailVBC\\Form1.cs",
               "RelativeDocumentMoniker": "SendEmailVBC\\Form1.cs",
               "ToolTip": "C:\\Users\\DELL 5400\\Desktop\\Ki\u1EC3m tra l\u1ECBch b\u1EA3o v\u1EC7\\KiemTraLichBaoVe\\SendEmailVBC\\Form1.cs [Design]",
-              "RelativeToolTip": "SendEmailVBC\\Form1.cs [Design]",
+              "RelativeToolTip": "..\\SendEmailVBC\\Form1.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-28T04:39:13.481Z"
             }

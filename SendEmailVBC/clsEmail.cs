@@ -22,7 +22,7 @@ namespace SendEmailVBC
                client.Timeout = 10000;
                client.UseDefaultCredentials = false;
                client.DeliveryMethod = SmtpDeliveryMethod.Network;
-                client.Credentials = new System.Net.NetworkCredential("thinhtranvandanang@gmail.com", "xyfn dgmn myun hrue");
+                client.Credentials = new System.Net.NetworkCredential("thinhtranvandanang@gmail.com", "abc12345");
                MailMessage mm = new MailMessage();
                 mm.IsBodyHtml = true;
                 mm.BodyEncoding = UTF8Encoding.UTF8;
